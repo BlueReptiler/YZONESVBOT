@@ -1,0 +1,36 @@
+# Entry removed Sat Feb  3 20:39:44 2018
+# Reason: ERROR: FGT67EzVcfs: YouTube said: "Hi Fly - Randy Weston..." The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=FGT67EzVcfs
+
+################################
+
+# Entry removed Sun Feb  4 14:28:53 2018
+# Reason: ERROR: D2qAj2XnLYo: YouTube said: "The Beatles - Hey Jude - Ta..." The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=D2qAj2XnLYo
+
+################################
+
+# Entry removed Sun Feb  4 22:34:53 2018
+# Reason: ERROR: 46Cfrl7hMoQ: YouTube said: "Paul Simon - Me and Julio D..." The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=46Cfrl7hMoQ
+
+################################
+
+# Entry removed Sun Feb  4 22:38:14 2018
+# Reason: ERROR: CW7OXRF7yGY: YouTube said: This video is not available.
+https://youtube.com/watch?v=CW7OXRF7yGY
+
+################################
+
+# Entry removed Sun Feb  4 22:38:49 2018
+# Reason: ERROR: tpGOXpvqtbY: YouTube said: This video is not available.
+https://youtube.com/watch?v=tpGOXpvqtbY
+
+################################
+
+# Entry removed Sun Feb  4 22:54:00 2018
+# Reason: ERROR: ivY2Kfhw31Q: YouTube said: "Quintino & Cheat Co..." The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=ivY2Kfhw31Q
+
+################################
+
